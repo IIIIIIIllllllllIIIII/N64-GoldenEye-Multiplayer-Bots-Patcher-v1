@@ -10,6 +10,13 @@ Add AI bots to GoldenEye 007 multiplayer using an offline browser patcher.
 - Optional full-screen play with one human, or split-screen views for multiple humans.
 - Bots collect weapons, fight, and respawn.
 
+<!-- Inline playable video -->
+<video width="640" controls>
+  <source src="https://raw.githubusercontent.com/IIIIIIIllllllllIIIII/N64-GoldenEye-Multiplayer-Bots-Patcher-v1/main/n64_rom.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download it here:
+  <a href="https://github.com/IIIIIIIllllllllIIIII/N64-GoldenEye-Multiplayer-Bots-Patcher-v1/blob/main/n64_rom.mp4">n64_rom.mp4</a>
+</video>
+
 ## How to use
 
 1. Download `GoldenEye-Bots-Patcher.html`.
