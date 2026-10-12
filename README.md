@@ -1,4 +1,4 @@
-# GoldenEye 007 — Multiplayer Bots
+# Nintendo 64 - GoldenEye 007 — Multiplayer Bots (works on any emulator)
 
 Add AI bots to GoldenEye 007 multiplayer using an offline browser patcher.
 
